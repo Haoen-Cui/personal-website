@@ -26,7 +26,7 @@ git diff-index --quiet HEAD || git commit -m "$msg"
 
 # Push source and build repos.
 printf "\033[0;32mPushing to Haoen-Cui/haoen-cui.github.io master branch...\033[0m\n"
-git diff-index --quiet HEAD || git push --quiet --force https://Haoen-Cui:${GITHUB_PAT}@github.com/Haoen-Cui/haoen-cui.github.io.git master
+git push --quiet --force https://Haoen-Cui:${GITHUB_PAT}@github.com/Haoen-Cui/haoen-cui.github.io.git master
 
 # success message
 printf "\033[0;32mDone !!!\033[0m\n"
