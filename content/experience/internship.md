@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   company = "State Farm Research and Development Center"
   company_url = "https://www.statefarm.com/"
   location = "Champaign, IL"
-  date_start = "2018-08-27"
-  date_end = "2018-12-13"
+  date_start = "2017-08-28"
+  date_end = "2017-12-14"
   description = """
   _Functioned as SAS Developer_ 
   _Tools used: SAS Studio, SAS Visual Analytics, XML, Apache Velocity, MS Office Suite_ 
