@@ -1,4 +1,4 @@
-[![Travis-CI Build Status](https://travis-ci.org/Haoen-Cui/haoen-cui.github.io.svg?branch=master)](https://travis-ci.org/Haoen-Cui/haoen-cui.github.io)
+[![Travis-CI Build Status](https://travis-ci.org/Haoen-Cui/personal-website.svg?branch=master)](https://travis-ci.org/Haoen-Cui/personal-website)
 
 # About
 
